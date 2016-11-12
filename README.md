@@ -1,4 +1,4 @@
-# Cognicast advice
+# The collected advice of The Cognicast
 
 Advice given by guests of <a href="http://blog.cognitect.com/cognicast" title="A podcast by cognitect Inc. about software and the people who create it.">The Cognicast</a>.
 
