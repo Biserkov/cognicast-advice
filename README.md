@@ -2,7 +2,7 @@
 
 Advice given by guests of <a href="http://blog.cognitect.com/cognicast" title="A podcast by Cognitect Inc. about software and the people who create it.">The Cognicast</a>.
 
-## Ep. [106](http://blog.cognitect.com/cognicast/106): Michael Nygard
+## Ep. [106](http://blog.cognitect.com/cognicast/106) Michael Nygard
 
 Everyone listening should learn how to read a company's balance sheet and its cash flow statement.  Not just understand what the lines are, but be able to understand what they mean behind it and what you can interpret about a company by looking at those things. 
 
