@@ -1,5 +1,7 @@
 # Cognicast advice
 
+Advice given by guests of <a href="http://blog.cognitect.com/cognicast" title="A podcast by cognitect Inc. about software and the people who create it.">The Cognicast</a>.
+
 ## Ep. 106 Michael Nygard
 
 Everyone listening should learn how to read a company's balance sheet and its cash flow statement.  Not just understand what the lines are, but be able to understand what they mean behind it and what you can interpret about a company by looking at those things. 
@@ -15,3 +17,19 @@ My advice is if you're in some position of decision-making and you're thinking a
 ## Ep. 103 Rich Hickey
 
 Make sure that you consider spec to be a suite of small, composable tools.  Like I said before, I'm not sure it would be evident to anyone that getting some data that's in the shape of code into something that's more map like is just a matter of calling conform on it with the spec.  You need to look at the pieces of spec as very small utilities you can bring to bear in a variety of different circumstances.  
+
+## Ep. 102 Bruce Hauman
+
+We're all human.  Take it easy on yourself.  If you feel like a clenched fist or stress just creeping into your shoulders, there's no way it's going to make you produce better work.  I say that as an absolute.  I guess, for some people, it really works.  It doesn't work for me, and it appears to be very destructive for a lot of people I see and know.  So, just take it easy on yourself.  For people who already are, that's great.
+
+## Ep. 101 Luke VanderHart
+
+You should all go donate to my Kickstarter campaign.
+
+## Ep. 100 
+
+**Rich**: We can stop being so focused on ourselves.  I think programmers are inordinately focused on their own convenience, culture, and various other things.  We are such navel gazers, and we are not looking around at the world.  We're primarily working for ourselves, making libraries for ourselves, making editors and tools for ourselves, talking to ourselves about ourselves.  We should definitely turn away from ourselves much more often than we do.
+
+**Jenn H**: Find something enjoyable about every stage of life because they go by really quickly.  It just has always stuck with me because there is certainly something to complain about with every stage of life.  And, if that's all you focus on, then you're missing it.
+
+**Mike**:  Every human being has intrinsic worth.  Every person should be treated with respect and dignity regardless of the extent that you agree or disagree with them.  Everybody has got the same core humanity to them, and I think it's incumbent on all of us, whatever our beliefs, to treat that with respect and dignity.
