@@ -3,7 +3,7 @@
 
 <html>
     <head>
-        <title># The collected advice of The Cognicast</title>
+        <title>The collected advice of The Cognicast</title>
         <style>
             body
                 {
