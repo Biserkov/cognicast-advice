@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>The collected advice of The Cognicast!</title>
+        <title>The collected advice of The Cognicast</title>
         <style>
             body
                 {
@@ -24,7 +24,7 @@
         </style>    
     </head>
     <body>
-        {% capture content %}{% include README.md %}{% endcapture %}{{ content | markdownify }}
+        {% capture content %}{% include_relative README.md %}{% endcapture %}{{ content | markdownify }}
             <div style="position: fixed; top: 1em; right: 1em;">
             [ <a href="https://github.com/Biserkov/cognicast-advice/edit/master/README.md" title="Edit on GitHub">edit</a> ]
         </div>
