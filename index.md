@@ -1,5 +1,0 @@
----
-layout: default
----
-
-{% capture content %}{% include README.md %}{% endcapture %}{{ content | markdownify }}
