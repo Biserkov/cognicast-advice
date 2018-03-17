@@ -2,6 +2,25 @@
 
 Advice given by guests of <a href="http://blog.cognitect.com/cognicast" title="A podcast by Cognitect Inc. about software and the people who create it.">The Cognicast</a>.
 
+## Ep. [139](http://blog.cognitect.com/cognicast/139) Craig Andera
+
+Generic: Don't put that in your mouth.
+
+On a more serious note: Don't do stupid things.
+
+```
+(defn stupid? ^:heuristic [sth]  
+  "Doing sth that you could have known was a bad idea.")
+```
+
+Don't do things you'll [truly] regret. 
+
+## Ep. [138](http://blog.cognitect.com/cognicast/138) Russ Olsen
+
+Think about the story of your life, that you are telling yourself in your head and take control of it.
+
+TODO: Ep. 107 to Ep. 137
+
 ## Ep. [106](http://blog.cognitect.com/cognicast/106) Michael Nygard
 
 Everyone listening should learn how to read a company's balance sheet and its cash flow statement.  Not just understand what the lines are, but be able to understand what they mean behind it and what you can interpret about a company by looking at those things. 
