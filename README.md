@@ -1,9 +1,10 @@
 # The collected advice of The Cognicast
 
-Advice given by guests of <a href="http://blog.cognitect.com/cognicast" title="A podcast by Cognitect Inc. about software and the people who create it.">The Cognicast</a>.
+Advice given by guests of <a href="http://blog.cognitect.com/cognicast" title="A podcast by Cognitect Inc. about software and the people who create it.">The Cognicast</a>. 
+See also [Twitter list](https://twitter.com/JBiserkov/lists/cognicast/members) of Cognicast guests.
 
 ## Ep. [139](http://blog.cognitect.com/cognicast/139) Craig Andera
-
+ 
 Generic: Don't put that in your mouth.
 
 On a more serious note: Don't do stupid things.
