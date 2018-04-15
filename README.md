@@ -1,20 +1,20 @@
 # The collected advice of The Cognicast
 
-Advice given by guests of <a href="http://blog.cognitect.com/cognicast" title="A podcast by Cognitect Inc. about software and the people who create it.">The Cognicast</a>. 
+Advice given by guests of [The Cognicast](http://blog.cognitect.com/cognicast "A podcast by Cognitect Inc. about software and the people who create it.")</a>.
 See also [Twitter list](https://twitter.com/JBiserkov/lists/cognicast/members) of Cognicast guests.
 
 ## Ep. [139](http://blog.cognitect.com/cognicast/139) Craig Andera
- 
+
 Generic: Don't put that in your mouth.
 
 On a more serious note: Don't do stupid things.
 
 ```
-(defn stupid? ^:heuristic [sth]  
+(defn stupid? ^:heuristic [sth]
   "Doing sth that you could have known was a bad idea.")
 ```
 
-Don't do things you'll [truly] regret. 
+Don't do things you'll [truly] regret.
 
 ## Ep. [138](http://blog.cognitect.com/cognicast/138) Russ Olsen
 
@@ -24,7 +24,7 @@ TODO: Ep. 107 to Ep. 137
 
 ## Ep. [106](http://blog.cognitect.com/cognicast/106) Michael Nygard
 
-Everyone listening should learn how to read a company's balance sheet and its cash flow statement.  Not just understand what the lines are, but be able to understand what they mean behind it and what you can interpret about a company by looking at those things. 
+Everyone listening should learn how to read a company's balance sheet and its cash flow statement.  Not just understand what the lines are, but be able to understand what they mean behind it and what you can interpret about a company by looking at those things.
 
 ## Ep. [105](http://blog.cognitect.com/cognicast/105) David Bock
 
@@ -32,11 +32,11 @@ Revisit your sources of knowledge and look at them in the new context that you h
 
 ## Ep. [104](http://blog.cognitect.com/cognicast/104) Russ Olsen
 
-My advice is if you're in some position of decision-making and you're thinking about trying this remote thing, or maybe you're thinking about trying to talk people in your company into trying the remote thing.  My advice is, yes, please do try it because, again, you go from everyone who is willing to drive to your office to essentially everyone you can legally employ.  I think that if you're not doing that, maybe your competitors are going to get a clue at some point. 
+My advice is if you're in some position of decision-making and you're thinking about trying this remote thing, or maybe you're thinking about trying to talk people in your company into trying the remote thing.  My advice is, yes, please do try it because, again, you go from everyone who is willing to drive to your office to essentially everyone you can legally employ.  I think that if you're not doing that, maybe your competitors are going to get a clue at some point.
 
 ## Ep. [103](http://blog.cognitect.com/cognicast/103) Rich Hickey
 
-Make sure that you consider spec to be a suite of small, composable tools.  Like I said before, I'm not sure it would be evident to anyone that getting some data that's in the shape of code into something that's more map like is just a matter of calling conform on it with the spec.  You need to look at the pieces of spec as very small utilities you can bring to bear in a variety of different circumstances.  
+Make sure that you consider spec to be a suite of small, composable tools.  Like I said before, I'm not sure it would be evident to anyone that getting some data that's in the shape of code into something that's more map like is just a matter of calling conform on it with the spec.  You need to look at the pieces of spec as very small utilities you can bring to bear in a variety of different circumstances.
 
 ## Ep. [102](http://blog.cognitect.com/cognicast/102) Bruce Hauman
 
