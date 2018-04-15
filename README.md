@@ -1,6 +1,6 @@
 # The collected advice of The Cognicast
 
-Advice given by guests of [The Cognicast](http://blog.cognitect.com/cognicast "A podcast by Cognitect Inc. about software and the people who create it.")</a>.
+Advice given by guests of [The Cognicast](http://blog.cognitect.com/cognicast "A podcast by Cognitect Inc. about software and the people who create it.").
 See also [Twitter list](https://twitter.com/JBiserkov/lists/cognicast/members) of Cognicast guests.
 
 ## Ep. [139](http://blog.cognitect.com/cognicast/139) Craig Andera
